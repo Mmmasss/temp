@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false" compareModeInSync="TEXT">
+    <serverData>
+      <paths name="host251">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/yqguo/coding/Trajectory" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cells_png" />
+            <excludedPath local="true" path="$PROJECT_DIR$/html" />
+            <excludedPath local="true" path="$PROJECT_DIR$/data" />
+            <excludedPath local="true" path="$PROJECT_DIR$/model" />
+            <excludedPath path="/home/yqguo/coding/Trajectory/model" />
+            <excludedPath path="/home/yqguo/coding/Trajectory/data" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="host252">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/yqguo/coding/Trajectory" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cells_png" />
+            <excludedPath local="true" path="$PROJECT_DIR$/html" />
+            <excludedPath local="true" path="$PROJECT_DIR$/data" />
+            <excludedPath local="true" path="$PROJECT_DIR$/model" />
+            <excludedPath path="/home/yqguo/coding/Trajectory/model" />
+            <excludedPath path="/home/yqguo/coding/Trajectory/data" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

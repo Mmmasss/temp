@@ -1,0 +1,10 @@
+/data/
+/html/
+/model/
+/cells_png/
+/log/
+__pycache__/
+/nohup.out
+/web/static/dataset/
+/.history
+/.vscode
